@@ -1,6 +1,6 @@
 # llm
 
-```marmade
+```mermaid
 
 graph TB
     subgraph "User Interface Layer"
